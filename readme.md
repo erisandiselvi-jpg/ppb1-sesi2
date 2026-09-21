@@ -1,4 +1,5 @@
 # Belajar Git
 
 Project untuk mempelajari dasar penggunaan git.
-g
+
+Ini adalah program terbaru dari branch dev-selpi.
